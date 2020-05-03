@@ -6,11 +6,17 @@ A simple iOS App built on MVC Pattern
 The app calculates Body mass index
 
 ● UISliders for Height and Weight
+
 ● UILabels for Height and Weight
+
 ● UIColors based on category
+
 ● MVC (Model View Controller)
+
 ● Segue presented Modally
+
 ● Background image
+
 ● Stack View and Constraints
 
 
